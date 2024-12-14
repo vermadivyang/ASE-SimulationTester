@@ -1,6 +1,6 @@
 from ase import Atoms
 from ase.visualize import view
-
+ 
 
 d = 1.10
 atom = Atoms('2N', positions=[(0., 0., 0.), (0., 0., d)])
